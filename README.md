@@ -1,2 +1,2 @@
 # dijkstras
-dijskstras 
+dijskstras is awesome!
